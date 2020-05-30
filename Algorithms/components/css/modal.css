@@ -1,7 +1,3 @@
-.vmodal {
-
-}
-
 .vmodal.open .modal-overlay,
 .vmodal.open .modal-window {
     opacity: 1;
